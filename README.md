@@ -8,6 +8,7 @@ Install dependencies:
 ```
 bundle install
 npm install
+npm install -g bower
 bower install
 ```
 
